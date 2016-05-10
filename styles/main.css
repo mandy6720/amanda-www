@@ -1,0 +1,23 @@
+p {
+	font-family: 'Oswald', Helvetica;
+	font-weight: 300;
+}
+
+h1 {
+	font-family: 'Playfair Display', cursive;
+	font-weight: 900;
+	font-style: italic;
+	font-size: 6.5em;
+	margin-top: -40px;
+	margin-left: 25px;
+}
+
+h2 {
+	font-family: 'Vast Shadow', Helvetica, sans-serif;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-bottom-style: double;
+    border-top-style: double; 
+    display: inline-block;
+    padding: 3px 10px;
+}
